@@ -17,6 +17,7 @@
                 <li><a href="#mobiles">Mobiles</a></li>
                 <li><a href="#laptops">Laptops</a></li>
                 <li><a href="#clothes">Clothes</a></li>
+                <li><a href="#bags">Bags</a></li>
                 <li><a href="#cart"><i class="fas fa-shopping-cart"></i> Cart <span id="cart-count">0</span></a></li>
             </ul>
         </nav>
@@ -57,6 +58,7 @@
                     <li><a href="#mobiles">Mobiles</a></li>
                     <li><a href="#laptops">Laptops</a></li>
                     <li><a href="#clothes">Clothes</a></li>
+                   <li><a href="#bags">Bags</a></li>
                 </ul>
             </div>
             <div class="footer-section">
